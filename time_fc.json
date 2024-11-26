@@ -1,0 +1,229 @@
+[
+    {
+        "project": "Time",
+        "bugId": 1,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 2,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 3,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 4,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 5,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 6,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 7,
+        "faultClass": [
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 8,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 9,
+        "faultClass": [
+            "uMethod",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 10,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 11,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 12,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 13,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 14,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 15,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 16,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 17,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "guardF",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 18,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 19,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 20,
+        "faultClass": [
+            "uGoto",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 21,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "guardF",
+            "guardN",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 22,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 23,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 24,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 25,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 26,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 27,
+        "faultClass": [
+            "guardN"
+        ]
+    }
+]

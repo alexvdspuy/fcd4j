@@ -1,0 +1,303 @@
+[
+    {
+        "project": "Mockito",
+        "bugId": 1,
+        "faultClass": [
+            "uGoto",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 2,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 3,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 4,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 5,
+        "faultClass": [
+            "uGoto"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 6,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 7,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 8,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 9,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 10,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 11,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 12,
+        "faultClass": [
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 13,
+        "faultClass": [
+            "uMethod",
+            "predF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 14,
+        "faultClass": [
+            "uMethod",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 15,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 16,
+        "faultClass": [
+            "uMethod",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 17,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 18,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 19,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 20,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 21,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "guardN",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 22,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 23,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 24,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 25,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 26,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 27,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 28,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 29,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 30,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 31,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 32,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 33,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 34,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 35,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 36,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 37,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 38,
+        "faultClass": [
+            "defF"
+        ]
+    }
+]

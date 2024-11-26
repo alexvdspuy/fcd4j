@@ -1,0 +1,3892 @@
+[
+    {
+        "project": "Chart",
+        "bugId": 1,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 2,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 3,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 4,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 5,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 6,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 7,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 8,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 9,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 10,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 11,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 12,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 13,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 14,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 15,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 16,
+        "faultClass": [
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 17,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 18,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 19,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 20,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 21,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 22,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 23,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 24,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 25,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 26,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 1,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 2,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 3,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 4,
+        "faultClass": [
+            "uMethod",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 5,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 6,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 7,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 8,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 9,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 10,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 11,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 12,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 13,
+        "faultClass": [
+            "bBlock"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 14,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 15,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 16,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 17,
+        "faultClass": [
+            "uMethod",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 18,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 19,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 20,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 21,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 22,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 23,
+        "faultClass": [
+            "guardN",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 24,
+        "faultClass": [
+            "guardN",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 25,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 26,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 27,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 28,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 29,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 30,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "guardN",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 31,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 32,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 33,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 34,
+        "faultClass": [
+            "uMethod",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 35,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 36,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 37,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 38,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 39,
+        "faultClass": [
+            "uMethod",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 40,
+        "faultClass": [
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 41,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 42,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 43,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 44,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 45,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 46,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 47,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 48,
+        "faultClass": [
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 49,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 50,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 51,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 52,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 53,
+        "faultClass": [
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 54,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 55,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 56,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 57,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 58,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 59,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 60,
+        "faultClass": [
+            "uGoto",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 61,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 62,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 63,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 64,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 65,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 66,
+        "faultClass": [
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 67,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 68,
+        "faultClass": [
+            "uMethod",
+            "bBlock"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 69,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 70,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 71,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 72,
+        "faultClass": [
+            "uMethod",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 73,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 74,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 75,
+        "faultClass": [
+            "guardF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 76,
+        "faultClass": [
+            "uGoto",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 77,
+        "faultClass": [
+            "uMethod",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 78,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 79,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 80,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 81,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 82,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 83,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 84,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 85,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 86,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 87,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 88,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 89,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 90,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 91,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 92,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 93,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 94,
+        "faultClass": [
+            "uGoto",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 95,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 96,
+        "faultClass": [
+            "guardN",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 97,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 98,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 99,
+        "faultClass": [
+            "guardN",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 100,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 101,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 102,
+        "faultClass": [
+            "bBlock"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 103,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 104,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 105,
+        "faultClass": [
+            "bBlock",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 106,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 107,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 108,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 109,
+        "faultClass": [
+            "uMethod",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 110,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 111,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 112,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 113,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 114,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 115,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 116,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 117,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 118,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 119,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 120,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 121,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 122,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 123,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 124,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 125,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 126,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 127,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 128,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 129,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 130,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 131,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 132,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Closure",
+        "bugId": 133,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 1,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 2,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 3,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 4,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 5,
+        "faultClass": [
+            "uMethod",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 6,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 7,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 8,
+        "faultClass": [
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 9,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 10,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 11,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 12,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 13,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 14,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 15,
+        "faultClass": [
+            "uMethod",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 16,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 17,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 18,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 19,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 20,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 21,
+        "faultClass": [
+            "guardN",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 22,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 23,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 24,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 25,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 26,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 27,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 28,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 29,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 30,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 31,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 32,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 33,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 34,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 35,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 36,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 37,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 38,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 39,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 40,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 41,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 42,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 43,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 44,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 45,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 46,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 47,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 48,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 49,
+        "faultClass": [
+            "bBlock"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 50,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 51,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 52,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 53,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 54,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 55,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 56,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 57,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 58,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 59,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 60,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 61,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 62,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 63,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 64,
+        "faultClass": [
+            "bBlock"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 65,
+        "faultClass": [
+            "uMethod",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 66,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 67,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 68,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 69,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 70,
+        "faultClass": [
+            "guardN",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 71,
+        "faultClass": [
+            "uMethod",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 72,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 73,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 74,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 75,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 76,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 77,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 78,
+        "faultClass": [
+            "uGoto",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 79,
+        "faultClass": [
+            "uGoto"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 80,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 81,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 82,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 83,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 84,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 85,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 86,
+        "faultClass": [
+            "uMethod",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 87,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 88,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 89,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 90,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 91,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 92,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 93,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 1,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 2,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 3,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 4,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 5,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 6,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 7,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 8,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 9,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 10,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 11,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 12,
+        "faultClass": [
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 13,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 14,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 15,
+        "faultClass": [
+            "uMethod",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 16,
+        "faultClass": [
+            "uMethod",
+            "predF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 17,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 18,
+        "faultClass": [
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 19,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 20,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 21,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 22,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 23,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 24,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 25,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 26,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 27,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 28,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 29,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 30,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 31,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 32,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 33,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 34,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 35,
+        "faultClass": [
+            "uGoto",
+            "bBlock"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 36,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 37,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 38,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 39,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 40,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 41,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 42,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 43,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 44,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 45,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 46,
+        "faultClass": [
+            "uMethod",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 47,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 48,
+        "faultClass": [
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 49,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 50,
+        "faultClass": [
+            "bBlock",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 51,
+        "faultClass": [
+            "uGoto"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 52,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 53,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 54,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 55,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 56,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 57,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 58,
+        "faultClass": [
+            "uMethod",
+            "predF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 59,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 60,
+        "faultClass": [
+            "predF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 61,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 62,
+        "faultClass": [
+            "uGoto",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 63,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 64,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Lang",
+        "bugId": 65,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 1,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 2,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 3,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 4,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 5,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 6,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 7,
+        "faultClass": [
+            "guardF",
+            "guardN",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 8,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 9,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 10,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 11,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 12,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 13,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 14,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 15,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 16,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 17,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 18,
+        "faultClass": [
+            "uMethod",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 19,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 20,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 21,
+        "faultClass": [
+            "bBlock",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 22,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 23,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 24,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 25,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 26,
+        "faultClass": [
+            "uMethod",
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 27,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 28,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 29,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 30,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 31,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 32,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 33,
+        "faultClass": [
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 34,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 35,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 36,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 37,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 38,
+        "faultClass": [
+            "uGoto",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 39,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 40,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 41,
+        "faultClass": [
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 42,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 43,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 44,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 45,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 46,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 47,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 48,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 49,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 50,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 51,
+        "faultClass": [
+            "uGoto",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 52,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 53,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 54,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 55,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 56,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 57,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 58,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 59,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 60,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 61,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 62,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 63,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 64,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 65,
+        "faultClass": [
+            "guardF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 66,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 67,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 68,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 69,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 70,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 71,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 72,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 73,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 74,
+        "faultClass": [
+            "uMethod",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 75,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 76,
+        "faultClass": [
+            "guardN",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 77,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 78,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 79,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 80,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 81,
+        "faultClass": [
+            "bBlock",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 82,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 83,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 84,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 85,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 86,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 87,
+        "faultClass": [
+            "guardN",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 88,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 89,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 90,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 91,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 92,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 93,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 94,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 95,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 96,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 97,
+        "faultClass": [
+            "guardF",
+            "guardN",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 98,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 99,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 100,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 101,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 102,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 103,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 104,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 105,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 106,
+        "faultClass": [
+            "uMethod",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 1,
+        "faultClass": [
+            "uGoto",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 2,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 3,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 4,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 5,
+        "faultClass": [
+            "uGoto"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 6,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 7,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 8,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 9,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 10,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 11,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 12,
+        "faultClass": [
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 13,
+        "faultClass": [
+            "uMethod",
+            "predF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 14,
+        "faultClass": [
+            "uMethod",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 15,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 16,
+        "faultClass": [
+            "uMethod",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 17,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 18,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 19,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 20,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 21,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "guardN",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 22,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 23,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 24,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 25,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 26,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 27,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 28,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 29,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 30,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 31,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 32,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 33,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 34,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 35,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 36,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 37,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Mockito",
+        "bugId": 38,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 1,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 2,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 3,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 4,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 5,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 6,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 7,
+        "faultClass": [
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 8,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 9,
+        "faultClass": [
+            "uMethod",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 10,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 11,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 12,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 13,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 14,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 15,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 16,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 17,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "guardF",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 18,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 19,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 20,
+        "faultClass": [
+            "uGoto",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 21,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "guardF",
+            "guardN",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 22,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 23,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 24,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 25,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 26,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Time",
+        "bugId": 27,
+        "faultClass": [
+            "guardN"
+        ]
+    }
+]

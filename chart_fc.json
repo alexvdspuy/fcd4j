@@ -1,0 +1,216 @@
+[
+    {
+        "project": "Chart",
+        "bugId": 1,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 2,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 3,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 4,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 5,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 6,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 7,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 8,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 9,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 10,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 11,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 12,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 13,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 14,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 15,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 16,
+        "faultClass": [
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 17,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 18,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 19,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 20,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 21,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 22,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 23,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 24,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 25,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Chart",
+        "bugId": 26,
+        "faultClass": [
+            "guardN"
+        ]
+    }
+]

@@ -1,0 +1,854 @@
+[
+    {
+        "project": "Math",
+        "bugId": 1,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 2,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 3,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 4,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 5,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 6,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 7,
+        "faultClass": [
+            "guardF",
+            "guardN",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 8,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 9,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 10,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 11,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 12,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 13,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 14,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 15,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 16,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 17,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 18,
+        "faultClass": [
+            "uMethod",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 19,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 20,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 21,
+        "faultClass": [
+            "bBlock",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 22,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 23,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 24,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 25,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 26,
+        "faultClass": [
+            "uMethod",
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 27,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 28,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 29,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 30,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 31,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 32,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 33,
+        "faultClass": [
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 34,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 35,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 36,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 37,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 38,
+        "faultClass": [
+            "uGoto",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 39,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 40,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 41,
+        "faultClass": [
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 42,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 43,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 44,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 45,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 46,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 47,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 48,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 49,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 50,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 51,
+        "faultClass": [
+            "uGoto",
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 52,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 53,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 54,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 55,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 56,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 57,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 58,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 59,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 60,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 61,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 62,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 63,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 64,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 65,
+        "faultClass": [
+            "guardF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 66,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 67,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 68,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 69,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 70,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 71,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 72,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 73,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 74,
+        "faultClass": [
+            "uMethod",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 75,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 76,
+        "faultClass": [
+            "guardN",
+            "predF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 77,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 78,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 79,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 80,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 81,
+        "faultClass": [
+            "bBlock",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 82,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 83,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 84,
+        "faultClass": [
+            "uGoto",
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 85,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 86,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 87,
+        "faultClass": [
+            "guardN",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 88,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 89,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 90,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 91,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 92,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 93,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 94,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 95,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 96,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 97,
+        "faultClass": [
+            "guardF",
+            "guardN",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 98,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 99,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 100,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 101,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 102,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 103,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 104,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 105,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Math",
+        "bugId": 106,
+        "faultClass": [
+            "uMethod",
+            "guardF"
+        ]
+    }
+]

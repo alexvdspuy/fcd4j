@@ -1,0 +1,730 @@
+[
+    {
+        "project": "Jsoup",
+        "bugId": 1,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 2,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 3,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 4,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 5,
+        "faultClass": [
+            "uMethod",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 6,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 7,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 8,
+        "faultClass": [
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 9,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 10,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 11,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 12,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 13,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 14,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 15,
+        "faultClass": [
+            "uMethod",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 16,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 17,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 18,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 19,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 20,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 21,
+        "faultClass": [
+            "guardN",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 22,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 23,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 24,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 25,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 26,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 27,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 28,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 29,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 30,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 31,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 32,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 33,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 34,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 35,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 36,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 37,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 38,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 39,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 40,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 41,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 42,
+        "faultClass": [
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 43,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 44,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 45,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 46,
+        "faultClass": [
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 47,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 48,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 49,
+        "faultClass": [
+            "bBlock"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 50,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 51,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 52,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "guardN",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 53,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 54,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 55,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 56,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 57,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 58,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 59,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 60,
+        "faultClass": [
+            "guardF",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 61,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 62,
+        "faultClass": [
+            "uMethod",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 63,
+        "faultClass": [
+            "uMethod",
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 64,
+        "faultClass": [
+            "bBlock"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 65,
+        "faultClass": [
+            "uMethod",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 66,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 67,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 68,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 69,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 70,
+        "faultClass": [
+            "guardN",
+            "bBlock",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 71,
+        "faultClass": [
+            "uMethod",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 72,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 73,
+        "faultClass": [
+            "uMethod",
+            "defF",
+            "useF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 74,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 75,
+        "faultClass": [
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 76,
+        "faultClass": [
+            "uMethod"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 77,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 78,
+        "faultClass": [
+            "uGoto",
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 79,
+        "faultClass": [
+            "uGoto"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 80,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 81,
+        "faultClass": [
+            "guardN"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 82,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 83,
+        "faultClass": [
+            "guardF",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 84,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 85,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 86,
+        "faultClass": [
+            "uMethod",
+            "predF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 87,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "predF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 88,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 89,
+        "faultClass": [
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 90,
+        "faultClass": [
+            "guardF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 91,
+        "faultClass": [
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 92,
+        "faultClass": [
+            "uMethod",
+            "bBlock",
+            "guardF",
+            "defF"
+        ]
+    },
+    {
+        "project": "Jsoup",
+        "bugId": 93,
+        "faultClass": [
+            "guardF"
+        ]
+    }
+]
