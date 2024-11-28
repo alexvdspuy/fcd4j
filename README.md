@@ -2,9 +2,9 @@
 
 ## Fault classes
 ### Control-flow
+- uOrder = unconditional ordering fault
 - uGoto = unconditional goto fault
 - uMethod = unconditional method call fault
-- bBlock = basic block fault
 - guardF = guard around faulty body
 - guardN = guard around non-faulty body
 - predF = predicate fault
