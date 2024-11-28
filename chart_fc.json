@@ -10,7 +10,6 @@
         "project": "Chart",
         "bugId": 2,
         "faultClass": [
-            "bBlock",
             "guardF",
             "defF"
         ]
@@ -41,7 +40,6 @@
         "bugId": 6,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF"
         ]
     },
@@ -129,7 +127,6 @@
         "bugId": 17,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "defF"
         ]
     },
@@ -137,10 +134,11 @@
         "project": "Chart",
         "bugId": 18,
         "faultClass": [
-            "uGoto",
+            "uJump",
             "uMethod",
             "guardF",
-            "guardN"
+            "guardN",
+            "defF"
         ]
     },
     {
@@ -163,7 +161,6 @@
         "bugId": 21,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF",
             "guardN",
             "defF"
@@ -173,8 +170,8 @@
         "project": "Chart",
         "bugId": 22,
         "faultClass": [
+            "uOrder",
             "uMethod",
-            "bBlock",
             "guardF",
             "guardN",
             "predF",
@@ -201,7 +198,6 @@
         "project": "Chart",
         "bugId": 25,
         "faultClass": [
-            "bBlock",
             "guardF",
             "guardN"
         ]

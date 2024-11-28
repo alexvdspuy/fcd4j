@@ -3,7 +3,6 @@
         "project": "Lang",
         "bugId": 1,
         "faultClass": [
-            "bBlock",
             "guardF",
             "predF",
             "defF"
@@ -72,7 +71,6 @@
         "bugId": 10,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF"
         ]
     },
@@ -98,7 +96,8 @@
         "faultClass": [
             "uMethod",
             "guardF",
-            "guardN"
+            "guardN",
+            "defF"
         ]
     },
     {
@@ -122,16 +121,16 @@
         "bugId": 16,
         "faultClass": [
             "uMethod",
-            "predF"
+            "predF",
+            "defF"
         ]
     },
     {
         "project": "Lang",
         "bugId": 17,
         "faultClass": [
-            "uGoto",
+            "uJump",
             "uMethod",
-            "bBlock",
             "guardF",
             "guardN",
             "defF"
@@ -149,7 +148,6 @@
         "project": "Lang",
         "bugId": 19,
         "faultClass": [
-            "bBlock",
             "guardF",
             "predF",
             "defF"
@@ -182,7 +180,6 @@
         "bugId": 23,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF",
             "defF"
         ]
@@ -235,7 +232,6 @@
         "project": "Lang",
         "bugId": 30,
         "faultClass": [
-            "bBlock",
             "guardF",
             "guardN",
             "predF",
@@ -247,9 +243,9 @@
         "project": "Lang",
         "bugId": 31,
         "faultClass": [
-            "bBlock",
             "guardF",
-            "guardN"
+            "guardN",
+            "defF"
         ]
     },
     {
@@ -280,8 +276,7 @@
         "project": "Lang",
         "bugId": 35,
         "faultClass": [
-            "uGoto",
-            "bBlock"
+            "uJump"
         ]
     },
     {
@@ -328,7 +323,6 @@
         "bugId": 41,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF",
             "predF",
             "defF"
@@ -347,7 +341,8 @@
         "project": "Lang",
         "bugId": 43,
         "faultClass": [
-            "uMethod"
+            "uMethod",
+            "defF"
         ]
     },
     {
@@ -401,7 +396,7 @@
         "project": "Lang",
         "bugId": 50,
         "faultClass": [
-            "bBlock",
+            "uOrder",
             "guardN"
         ]
     },
@@ -409,7 +404,7 @@
         "project": "Lang",
         "bugId": 51,
         "faultClass": [
-            "uGoto"
+            "uJump"
         ]
     },
     {
@@ -491,7 +486,7 @@
         "project": "Lang",
         "bugId": 62,
         "faultClass": [
-            "uGoto",
+            "uJump",
             "guardF",
             "defF"
         ]
@@ -501,7 +496,6 @@
         "bugId": 63,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "defF"
         ]
     },
@@ -516,7 +510,6 @@
         "project": "Lang",
         "bugId": 65,
         "faultClass": [
-            "bBlock",
             "guardF",
             "guardN",
             "defF"

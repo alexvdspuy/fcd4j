@@ -10,7 +10,8 @@
         "project": "Jsoup",
         "bugId": 2,
         "faultClass": [
-            "uMethod"
+            "uMethod",
+            "defF"
         ]
     },
     {
@@ -43,7 +44,8 @@
         "project": "Jsoup",
         "bugId": 6,
         "faultClass": [
-            "uMethod"
+            "uMethod",
+            "defF"
         ]
     },
     {
@@ -51,7 +53,6 @@
         "bugId": 7,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF",
             "defF"
         ]
@@ -90,7 +91,6 @@
         "bugId": 12,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF",
             "defF"
         ]
@@ -166,7 +166,7 @@
         "project": "Jsoup",
         "bugId": 22,
         "faultClass": [
-            "bBlock",
+            "uMethod",
             "guardF",
             "defF"
         ]
@@ -176,7 +176,6 @@
         "bugId": 23,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF",
             "defF"
         ]
@@ -215,7 +214,6 @@
         "bugId": 28,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF",
             "defF",
             "useF"
@@ -233,7 +231,6 @@
         "project": "Jsoup",
         "bugId": 30,
         "faultClass": [
-            "bBlock",
             "guardF",
             "guardN",
             "defF"
@@ -243,7 +240,6 @@
         "project": "Jsoup",
         "bugId": 31,
         "faultClass": [
-            "bBlock",
             "guardF",
             "defF"
         ]
@@ -260,7 +256,8 @@
         "project": "Jsoup",
         "bugId": 33,
         "faultClass": [
-            "uMethod"
+            "uMethod",
+            "defF"
         ]
     },
     {
@@ -274,14 +271,14 @@
         "project": "Jsoup",
         "bugId": 35,
         "faultClass": [
-            "uMethod"
+            "uMethod",
+            "defF"
         ]
     },
     {
         "project": "Jsoup",
         "bugId": 36,
         "faultClass": [
-            "bBlock",
             "guardF",
             "guardN",
             "defF"
@@ -378,14 +375,13 @@
         "project": "Jsoup",
         "bugId": 49,
         "faultClass": [
-            "bBlock"
+            "uOrder"
         ]
     },
     {
         "project": "Jsoup",
         "bugId": 50,
         "faultClass": [
-            "bBlock",
             "guardF",
             "defF"
         ]
@@ -402,7 +398,6 @@
         "bugId": 52,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF",
             "guardN",
             "defF"
@@ -412,7 +407,6 @@
         "project": "Jsoup",
         "bugId": 53,
         "faultClass": [
-            "bBlock",
             "guardF",
             "defF"
         ]
@@ -436,7 +430,6 @@
         "bugId": 56,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF",
             "defF"
         ]
@@ -453,7 +446,6 @@
         "bugId": 58,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "defF"
         ]
     },
@@ -501,7 +493,7 @@
         "project": "Jsoup",
         "bugId": 64,
         "faultClass": [
-            "bBlock"
+            "uOrder"
         ]
     },
     {
@@ -517,7 +509,6 @@
         "bugId": 66,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "defF"
         ]
     },
@@ -547,7 +538,6 @@
         "bugId": 70,
         "faultClass": [
             "guardN",
-            "bBlock",
             "defF"
         ]
     },
@@ -594,7 +584,8 @@
         "project": "Jsoup",
         "bugId": 76,
         "faultClass": [
-            "uMethod"
+            "uMethod",
+            "defF"
         ]
     },
     {
@@ -608,7 +599,7 @@
         "project": "Jsoup",
         "bugId": 78,
         "faultClass": [
-            "uGoto",
+            "uJump",
             "guardN"
         ]
     },
@@ -616,7 +607,7 @@
         "project": "Jsoup",
         "bugId": 79,
         "faultClass": [
-            "uGoto"
+            "uJump"
         ]
     },
     {
@@ -675,7 +666,6 @@
         "bugId": 87,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "predF",
             "defF"
         ]
@@ -705,7 +695,6 @@
         "project": "Jsoup",
         "bugId": 91,
         "faultClass": [
-            "bBlock",
             "guardF",
             "defF"
         ]
@@ -715,7 +704,6 @@
         "bugId": 92,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF",
             "defF"
         ]

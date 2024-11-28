@@ -36,7 +36,6 @@
         "bugId": 5,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardF",
             "predF",
             "defF"
@@ -55,7 +54,7 @@
         "project": "Time",
         "bugId": 7,
         "faultClass": [
-            "bBlock",
+            "uOrder",
             "defF"
         ]
     },
@@ -134,7 +133,7 @@
         "project": "Time",
         "bugId": 17,
         "faultClass": [
-            "uGoto",
+            "uJump",
             "uMethod",
             "guardF",
             "predF",
@@ -161,8 +160,7 @@
         "project": "Time",
         "bugId": 20,
         "faultClass": [
-            "uGoto",
-            "bBlock",
+            "uJump",
             "guardF",
             "defF"
         ]
@@ -171,7 +169,7 @@
         "project": "Time",
         "bugId": 21,
         "faultClass": [
-            "uGoto",
+            "uJump",
             "uMethod",
             "guardF",
             "guardN",
@@ -185,7 +183,6 @@
         "bugId": 22,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "defF"
         ]
     },

@@ -3,7 +3,7 @@
         "project": "Mockito",
         "bugId": 1,
         "faultClass": [
-            "uGoto",
+            "uJump",
             "guardF"
         ]
     },
@@ -18,8 +18,9 @@
         "project": "Mockito",
         "bugId": 3,
         "faultClass": [
-            "bBlock",
+            "uMethod",
             "guardF",
+            "guardN",
             "defF",
             "useF"
         ]
@@ -37,7 +38,7 @@
         "project": "Mockito",
         "bugId": 5,
         "faultClass": [
-            "uGoto"
+            "uJump"
         ]
     },
     {
@@ -53,7 +54,8 @@
         "project": "Mockito",
         "bugId": 7,
         "faultClass": [
-            "uMethod"
+            "uMethod",
+            "defF"
         ]
     },
     {
@@ -101,7 +103,8 @@
         "bugId": 13,
         "faultClass": [
             "uMethod",
-            "predF"
+            "predF",
+            "defF"
         ]
     },
     {
@@ -133,7 +136,6 @@
         "bugId": 17,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "guardN",
             "defF"
         ]
@@ -167,7 +169,7 @@
         "project": "Mockito",
         "bugId": 21,
         "faultClass": [
-            "uGoto",
+            "uJump",
             "uMethod",
             "guardN",
             "defF",
@@ -202,7 +204,6 @@
         "bugId": 25,
         "faultClass": [
             "uMethod",
-            "bBlock",
             "defF"
         ]
     },
@@ -225,7 +226,8 @@
         "project": "Mockito",
         "bugId": 28,
         "faultClass": [
-            "uMethod"
+            "uMethod",
+            "defF"
         ]
     },
     {
