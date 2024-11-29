@@ -78,7 +78,7 @@
         "project": "Closure",
         "bugId": 11,
         "faultClass": [
-            "guardF"
+            "uJump"
         ]
     },
     {
@@ -154,15 +154,16 @@
         "project": "Closure",
         "bugId": 21,
         "faultClass": [
-            "guardF",
-            "predF"
+            "uJump",
+            "predF",
+            "defF"
         ]
     },
     {
         "project": "Closure",
         "bugId": 22,
         "faultClass": [
-            "guardF",
+            "uJump",
             "guardN",
             "predF"
         ]
@@ -190,7 +191,6 @@
         "faultClass": [
             "uOrder",
             "uMethod",
-            "guardF",
             "defF"
         ]
     },
@@ -273,7 +273,6 @@
         "bugId": 35,
         "faultClass": [
             "uMethod",
-            "guardF",
             "predF"
         ]
     },
@@ -361,7 +360,7 @@
         "project": "Closure",
         "bugId": 46,
         "faultClass": [
-            "guardF",
+            "uMethod",
             "guardN",
             "defF"
         ]
@@ -662,6 +661,7 @@
         "project": "Closure",
         "bugId": 85,
         "faultClass": [
+            "uJump",
             "uMethod",
             "guardF",
             "defF"
@@ -900,7 +900,9 @@
         "project": "Closure",
         "bugId": 115,
         "faultClass": [
-            "guardF"
+            "uJump",
+            "uMethod",
+            "defF"
         ]
     },
     {
@@ -914,8 +916,7 @@
         "project": "Closure",
         "bugId": 117,
         "faultClass": [
-            "guardF",
-            "defF"
+            "uOrder"
         ]
     },
     {
@@ -979,7 +980,7 @@
         "project": "Closure",
         "bugId": 126,
         "faultClass": [
-            "guardF"
+            "uMethod"
         ]
     },
     {

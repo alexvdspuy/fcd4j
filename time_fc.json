@@ -5,7 +5,8 @@
         "faultClass": [
             "uMethod",
             "guardF",
-            "predF"
+            "predF",
+            "defF"
         ]
     },
     {

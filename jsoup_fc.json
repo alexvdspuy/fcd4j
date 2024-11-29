@@ -382,6 +382,7 @@
         "project": "Jsoup",
         "bugId": 50,
         "faultClass": [
+            "uMethod",
             "guardF",
             "defF"
         ]
@@ -397,8 +398,8 @@
         "project": "Jsoup",
         "bugId": 52,
         "faultClass": [
+            "uJump",
             "uMethod",
-            "guardF",
             "guardN",
             "defF"
         ]
@@ -485,7 +486,6 @@
         "bugId": 63,
         "faultClass": [
             "uMethod",
-            "guardF",
             "predF"
         ]
     },
@@ -523,7 +523,7 @@
         "project": "Jsoup",
         "bugId": 68,
         "faultClass": [
-            "guardF"
+            "defF"
         ]
     },
     {

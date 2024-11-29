@@ -47,7 +47,7 @@
         "project": "Math",
         "bugId": 7,
         "faultClass": [
-            "guardF",
+            "uMethod",
             "guardN",
             "defF",
             "useF"
@@ -237,6 +237,7 @@
         "project": "Math",
         "bugId": 31,
         "faultClass": [
+            "uJump",
             "uMethod",
             "guardF",
             "defF",
@@ -384,7 +385,8 @@
         "project": "Math",
         "bugId": 50,
         "faultClass": [
-            "guardF"
+            "uMethod",
+            "defF"
         ]
     },
     {
@@ -432,7 +434,6 @@
         "project": "Math",
         "bugId": 56,
         "faultClass": [
-            "guardF",
             "defF"
         ]
     },
@@ -462,8 +463,10 @@
         "project": "Math",
         "bugId": 60,
         "faultClass": [
+            "uJump",
             "guardF",
-            "guardN"
+            "guardN",
+            "defF"
         ]
     },
     {
@@ -495,6 +498,7 @@
         "project": "Math",
         "bugId": 64,
         "faultClass": [
+            "uJump",
             "uMethod",
             "guardF",
             "defF",
@@ -505,7 +509,6 @@
         "project": "Math",
         "bugId": 65,
         "faultClass": [
-            "guardF",
             "defF",
             "useF"
         ]
@@ -675,7 +678,8 @@
         "project": "Math",
         "bugId": 86,
         "faultClass": [
-            "guardF"
+            "uOrder",
+            "predF"
         ]
     },
     {
@@ -692,7 +696,6 @@
         "bugId": 88,
         "faultClass": [
             "uMethod",
-            "guardF",
             "guardN",
             "defF"
         ]
@@ -722,6 +725,7 @@
         "project": "Math",
         "bugId": 92,
         "faultClass": [
+            "uJump",
             "guardF",
             "defF"
         ]

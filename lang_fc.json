@@ -49,6 +49,7 @@
         "project": "Lang",
         "bugId": 7,
         "faultClass": [
+            "uJump",
             "guardF"
         ]
     },
@@ -70,8 +71,8 @@
         "project": "Lang",
         "bugId": 10,
         "faultClass": [
-            "uMethod",
-            "guardF"
+            "uJump",
+            "uMethod"
         ]
     },
     {
@@ -131,7 +132,6 @@
         "faultClass": [
             "uJump",
             "uMethod",
-            "guardF",
             "guardN",
             "defF"
         ]
