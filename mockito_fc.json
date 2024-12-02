@@ -3,303 +3,302 @@
         "project": "Mockito",
         "bugId": 1,
         "faultClass": [
-            "uJump",
-            "guardF"
+            "jump"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 2,
         "faultClass": [
-            "guardF"
+            "block"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 3,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "guardN",
-            "defF",
-            "useF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 4,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "call",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 5,
         "faultClass": [
-            "uJump"
+            "jump"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 6,
         "faultClass": [
-            "uMethod",
-            "defF",
-            "useF"
+            "call",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 7,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 8,
         "faultClass": [
-            "guardN"
+            "guard"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 9,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 10,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 11,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "guardN",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 12,
         "faultClass": [
-            "guardN",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 13,
         "faultClass": [
-            "uMethod",
-            "predF",
-            "defF"
+            "call",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 14,
         "faultClass": [
-            "uMethod",
-            "guardN",
-            "defF"
+            "call",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 15,
         "faultClass": [
-            "guardN"
+            "guard"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 16,
         "faultClass": [
-            "uMethod",
-            "guardN"
+            "call",
+            "guard"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 17,
         "faultClass": [
-            "uMethod",
-            "guardN",
-            "defF"
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 18,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 19,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "block",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 20,
         "faultClass": [
-            "uMethod",
-            "defF",
-            "useF"
+            "call",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 21,
         "faultClass": [
-            "uJump",
-            "uMethod",
-            "guardN",
-            "defF",
-            "useF"
+            "jump",
+            "call",
+            "guard",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 22,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 23,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "call",
+            "block",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 24,
         "faultClass": [
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 25,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 26,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 27,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 28,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 29,
         "faultClass": [
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 30,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 31,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 32,
         "faultClass": [
-            "uMethod"
+            "call"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 33,
         "faultClass": [
-            "guardF",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 34,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 35,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 36,
         "faultClass": [
-            "guardF"
+            "block"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 37,
         "faultClass": [
-            "guardF"
+            "block"
         ]
     },
     {
         "project": "Mockito",
         "bugId": 38,
         "faultClass": [
-            "defF"
+            "guard",
+            "def"
         ]
     }
 ]

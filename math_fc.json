@@ -3,840 +3,863 @@
         "project": "Math",
         "bugId": 1,
         "faultClass": [
-            "guardF"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Math",
         "bugId": 2,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 3,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 4,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 5,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 6,
         "faultClass": [
-            "uMethod",
-            "predF",
-            "defF"
+            "call",
+            "pred",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 7,
         "faultClass": [
-            "uMethod",
-            "guardN",
-            "defF",
-            "useF"
+            "call",
+            "guard",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 8,
         "faultClass": [
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 9,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 10,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 11,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 12,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 13,
         "faultClass": [
-            "guardF",
-            "guardN"
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 14,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "guardN",
-            "defF"
+            "call",
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 15,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Math",
         "bugId": 16,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "guardN",
-            "defF"
+            "call",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 17,
         "faultClass": [
-            "guardN"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 18,
         "faultClass": [
-            "uMethod",
-            "predF",
-            "defF"
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 19,
         "faultClass": [
-            "guardF"
+            "block"
         ]
     },
     {
         "project": "Math",
         "bugId": 20,
         "faultClass": [
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 21,
         "faultClass": [
-            "predF",
-            "defF",
-            "useF"
+            "pred",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 22,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 23,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 24,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 25,
         "faultClass": [
-            "guardF"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Math",
         "bugId": 26,
         "faultClass": [
-            "uMethod",
-            "predF"
+            "call",
+            "pred"
         ]
     },
     {
         "project": "Math",
         "bugId": 27,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 28,
         "faultClass": [
-            "guardN"
+            "guard"
         ]
     },
     {
         "project": "Math",
         "bugId": 29,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "predF",
-            "defF"
+            "call",
+            "block",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 30,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 31,
         "faultClass": [
-            "uJump",
-            "uMethod",
-            "guardF",
-            "defF",
-            "useF"
+            "jump",
+            "block",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 32,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Math",
         "bugId": 33,
         "faultClass": [
-            "predF",
-            "defF",
-            "useF"
+            "pred",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 34,
         "faultClass": [
-            "uMethod",
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 35,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call"
         ]
     },
     {
         "project": "Math",
         "bugId": 36,
         "faultClass": [
-            "guardF"
+            "block",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 37,
         "faultClass": [
-            "guardF",
-            "predF"
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 38,
         "faultClass": [
-            "uJump",
-            "defF"
+            "jump",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 39,
         "faultClass": [
-            "guardF",
-            "defF"
+            "block",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 40,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 41,
         "faultClass": [
-            "predF",
-            "defF"
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 42,
         "faultClass": [
-            "guardF"
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 43,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Math",
         "bugId": 44,
         "faultClass": [
-            "guardF",
-            "defF"
+            "block"
         ]
     },
     {
         "project": "Math",
         "bugId": 45,
         "faultClass": [
-            "guardF"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Math",
         "bugId": 46,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 47,
         "faultClass": [
-            "guardF",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 48,
         "faultClass": [
-            "guardF"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Math",
         "bugId": 49,
         "faultClass": [
-            "defF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 50,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 51,
         "faultClass": [
-            "uJump",
-            "guardF"
+            "jump",
+            "block",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 52,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Math",
         "bugId": 53,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 54,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "predF",
-            "defF"
+            "call",
+            "block",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 55,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 56,
         "faultClass": [
-            "defF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 57,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 58,
         "faultClass": [
-            "uMethod"
+            "call"
         ]
     },
     {
         "project": "Math",
         "bugId": 59,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 60,
         "faultClass": [
-            "uJump",
-            "guardF",
-            "guardN",
-            "defF"
+            "jump",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 61,
         "faultClass": [
-            "uMethod",
-            "defF",
-            "useF"
+            "call",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 62,
         "faultClass": [
-            "uMethod",
-            "defF",
-            "useF"
+            "call",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 63,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 64,
         "faultClass": [
-            "uJump",
-            "uMethod",
-            "guardF",
-            "defF",
-            "useF"
+            "jump",
+            "call",
+            "block",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 65,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 66,
         "faultClass": [
-            "uJump",
-            "uMethod",
-            "predF",
-            "defF",
-            "useF"
+            "jump",
+            "call",
+            "pred",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 67,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 68,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "guardN",
-            "defF"
+            "call",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 69,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 70,
         "faultClass": [
-            "uMethod"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 71,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 72,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 73,
         "faultClass": [
-            "guardF"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Math",
         "bugId": 74,
         "faultClass": [
-            "uMethod",
-            "guardN",
-            "defF"
+            "call",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 75,
         "faultClass": [
-            "uMethod"
+            "call"
         ]
     },
     {
         "project": "Math",
         "bugId": 76,
         "faultClass": [
-            "guardN",
-            "predF",
-            "defF",
-            "useF"
+            "guard",
+            "pred",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 77,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 78,
         "faultClass": [
-            "guardF"
+            "jump",
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 79,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 80,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 81,
         "faultClass": [
-            "predF",
-            "defF"
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 82,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Math",
         "bugId": 83,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 84,
         "faultClass": [
-            "uJump",
-            "uMethod",
-            "guardF",
-            "defF"
+            "block",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 85,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Math",
         "bugId": 86,
         "faultClass": [
-            "uOrder",
-            "predF"
+            "order",
+            "pred",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 87,
         "faultClass": [
-            "guardN",
-            "predF",
-            "defF"
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 88,
         "faultClass": [
-            "uMethod",
-            "guardN",
-            "defF"
+            "call",
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 89,
         "faultClass": [
-            "guardN"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Math",
         "bugId": 90,
         "faultClass": [
-            "uMethod"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 91,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 92,
         "faultClass": [
-            "uJump",
-            "guardF",
-            "defF"
+            "jump",
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 93,
         "faultClass": [
-            "guardF",
-            "predF"
+            "jump",
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 94,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Math",
         "bugId": 95,
         "faultClass": [
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 96,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 97,
         "faultClass": [
-            "guardF",
-            "guardN",
-            "predF",
-            "defF"
+            "block",
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 98,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Math",
         "bugId": 99,
         "faultClass": [
-            "guardF"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Math",
         "bugId": 100,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 101,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Math",
         "bugId": 102,
         "faultClass": [
-            "guardF",
-            "guardN",
-            "defF"
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 103,
         "faultClass": [
-            "guardF",
-            "guardN"
+            "jump",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 104,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 105,
         "faultClass": [
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Math",
         "bugId": 106,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "call",
+            "guard",
+            "def"
         ]
     }
 ]

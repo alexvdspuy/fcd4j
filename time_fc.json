@@ -3,225 +3,233 @@
         "project": "Time",
         "bugId": 1,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "predF",
-            "defF"
+            "jump",
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 2,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "predF"
+            "jump",
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 3,
         "faultClass": [
-            "guardN"
+            "guard"
         ]
     },
     {
         "project": "Time",
         "bugId": 4,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 5,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "predF",
-            "defF"
+            "jump",
+            "call",
+            "guard",
+            "pred",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Time",
         "bugId": 6,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "jump",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 7,
         "faultClass": [
-            "uOrder",
-            "defF"
+            "order",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 8,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "predF",
-            "defF"
+            "jump",
+            "call",
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 9,
         "faultClass": [
-            "uMethod",
-            "guardF"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Time",
         "bugId": 10,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 11,
         "faultClass": [
-            "uMethod"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 12,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 13,
         "faultClass": [
-            "guardF",
-            "defF"
+            "guard",
+            "block",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 14,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 15,
         "faultClass": [
-            "guardF"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Time",
         "bugId": 16,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Time",
         "bugId": 17,
         "faultClass": [
-            "uJump",
-            "uMethod",
-            "guardF",
-            "predF",
-            "defF",
-            "useF"
+            "call",
+            "guard",
+            "pred",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Time",
         "bugId": 18,
         "faultClass": [
-            "guardF",
-            "guardN"
+            "jump",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 19,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Time",
         "bugId": 20,
         "faultClass": [
-            "uJump",
-            "guardF",
-            "defF"
+            "order",
+            "guard",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Time",
         "bugId": 21,
         "faultClass": [
-            "uJump",
-            "uMethod",
-            "guardF",
-            "guardN",
-            "predF",
-            "defF",
-            "useF"
+            "order",
+            "jump",
+            "block",
+            "guard",
+            "pred",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Time",
         "bugId": 22,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 23,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 24,
         "faultClass": [
-            "guardF",
-            "defF"
+            "block",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 25,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Time",
         "bugId": 26,
         "faultClass": [
-            "uMethod"
+            "call"
         ]
     },
     {
         "project": "Time",
         "bugId": 27,
         "faultClass": [
-            "guardN"
+            "guard"
         ]
     }
 ]

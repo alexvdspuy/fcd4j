@@ -3,210 +3,205 @@
         "project": "Chart",
         "bugId": 1,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Chart",
         "bugId": 2,
         "faultClass": [
-            "guardF",
-            "defF"
+            "block",
+            "def"
         ]
     },
     {
         "project": "Chart",
         "bugId": 3,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Chart",
         "bugId": 4,
         "faultClass": [
-            "guardN"
+            "guard"
         ]
     },
     {
         "project": "Chart",
         "bugId": 5,
         "faultClass": [
-            "guardF"
+            "block",
+            "guard"
         ]
     },
     {
         "project": "Chart",
         "bugId": 6,
         "faultClass": [
-            "uMethod",
-            "guardF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Chart",
         "bugId": 7,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Chart",
         "bugId": 8,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Chart",
         "bugId": 9,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Chart",
         "bugId": 10,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Chart",
         "bugId": 11,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Chart",
         "bugId": 12,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call"
         ]
     },
     {
         "project": "Chart",
         "bugId": 13,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Chart",
         "bugId": 14,
         "faultClass": [
-            "guardF"
+            "guard"
         ]
     },
     {
         "project": "Chart",
         "bugId": 15,
         "faultClass": [
-            "guardF",
-            "guardN"
+            "guard"
         ]
     },
     {
         "project": "Chart",
         "bugId": 16,
         "faultClass": [
-            "predF",
-            "defF",
-            "useF"
+            "pred",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Chart",
         "bugId": 17,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Chart",
         "bugId": 18,
         "faultClass": [
-            "uJump",
-            "uMethod",
-            "guardF",
-            "guardN",
-            "defF"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Chart",
         "bugId": 19,
         "faultClass": [
-            "guardF"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Chart",
         "bugId": 20,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Chart",
         "bugId": 21,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "guardN",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Chart",
         "bugId": 22,
         "faultClass": [
-            "uOrder",
-            "uMethod",
-            "guardF",
-            "guardN",
-            "predF",
-            "defF",
-            "useF"
+            "order",
+            "jump",
+            "block",
+            "guard",
+            "pred",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Chart",
         "bugId": 23,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Chart",
         "bugId": 24,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Chart",
         "bugId": 25,
         "faultClass": [
-            "guardF",
-            "guardN"
+            "guard"
         ]
     },
     {
         "project": "Chart",
         "bugId": 26,
         "faultClass": [
-            "guardN"
+            "guard"
         ]
     }
 ]

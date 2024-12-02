@@ -2,13 +2,13 @@
 
 ## Fault classes
 ### Control-flow
-- uOrder = unconditional ordering fault
-- uGoto = unconditional goto fault
-- uMethod = unconditional method call fault
-- guardF = guard around faulty body
-- guardN = guard around non-faulty body
-- predF = predicate fault
+- order = unconditional ordering fault
+- jump = unconditional jump fault
+- call = unconditional method call fault
+- pred = predicate vertex fault
+- guard = predicate existence fault
+- block = predicate block fault
 
 ### Data-flow
-- defF = definition fault
-- useF = use fault
+- def = definition fault
+- use = use fault

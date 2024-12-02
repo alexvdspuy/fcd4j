@@ -3,1036 +3,1062 @@
         "project": "Closure",
         "bugId": 1,
         "faultClass": [
-            "guardF"
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 2,
         "faultClass": [
-            "guardN"
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 3,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "predF",
-            "defF"
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 4,
         "faultClass": [
-            "uMethod",
-            "predF"
+            "call",
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 5,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 6,
         "faultClass": [
-            "guardN"
+            "call",
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 7,
         "faultClass": [
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 8,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 9,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 10,
         "faultClass": [
-            "uMethod"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 11,
         "faultClass": [
-            "uJump"
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 12,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 13,
         "faultClass": [
-            "uOrder"
+            "order"
         ]
     },
     {
         "project": "Closure",
         "bugId": 14,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Closure",
         "bugId": 15,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 16,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 17,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 18,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 19,
         "faultClass": [
-            "guardF"
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 20,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 21,
         "faultClass": [
-            "uJump",
-            "predF",
-            "defF"
+            "jump",
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 22,
         "faultClass": [
-            "uJump",
-            "guardN",
-            "predF"
+            "jump",
+            "guard",
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 23,
         "faultClass": [
-            "guardN",
-            "predF",
-            "defF"
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 24,
         "faultClass": [
-            "guardN",
-            "predF"
+            "guard",
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 25,
         "faultClass": [
-            "uOrder",
-            "uMethod",
-            "defF"
+            "order",
+            "call",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Closure",
         "bugId": 26,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "call",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 27,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 28,
         "faultClass": [
-            "uMethod"
+            "call"
         ]
     },
     {
         "project": "Closure",
         "bugId": 29,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "call",
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 30,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "guardN",
-            "predF",
-            "defF"
+            "call",
+            "block",
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 31,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 32,
         "faultClass": [
-            "guardF",
-            "defF"
+            "call",
+            "block",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 33,
         "faultClass": [
-            "guardF"
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 34,
         "faultClass": [
-            "uMethod",
-            "predF"
+            "call",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 35,
         "faultClass": [
-            "uMethod",
-            "predF"
+            "call",
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 36,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 37,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "call",
+            "block",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 38,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 39,
         "faultClass": [
-            "uMethod",
-            "predF",
-            "defF"
+            "call",
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 40,
         "faultClass": [
-            "guardN",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 41,
         "faultClass": [
-            "guardF"
+            "block",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 42,
         "faultClass": [
-            "guardF"
+            "call",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 43,
         "faultClass": [
-            "guardF",
-            "guardN",
-            "defF"
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 44,
         "faultClass": [
-            "guardF"
+            "block"
         ]
     },
     {
         "project": "Closure",
         "bugId": 45,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "predF",
-            "defF"
+            "call",
+            "block",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 46,
         "faultClass": [
-            "uMethod",
-            "guardN",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 47,
         "faultClass": [
-            "guardF",
-            "defF"
+            "block",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 48,
         "faultClass": [
-            "predF",
-            "defF"
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 49,
         "faultClass": [
-            "uJump",
-            "uMethod",
-            "defF"
+            "jump",
+            "call",
+            "block",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 50,
         "faultClass": [
-            "guardF",
-            "predF"
+            "block",
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 51,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 52,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 53,
         "faultClass": [
-            "guardN",
-            "defF"
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 54,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "predF",
-            "defF",
-            "useF"
+            "block",
+            "pred",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Closure",
         "bugId": 55,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 56,
         "faultClass": [
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 57,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 58,
         "faultClass": [
-            "guardN"
+            "block",
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 59,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 60,
         "faultClass": [
-            "uJump",
-            "guardF",
-            "guardN",
-            "defF"
+            "jump",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 61,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 62,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 63,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 64,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 65,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 66,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 67,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 68,
         "faultClass": [
-            "uOrder",
-            "uMethod",
-            "defF"
+            "order",
+            "call",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 69,
         "faultClass": [
-            "guardF"
+            "block"
         ]
     },
     {
         "project": "Closure",
         "bugId": 70,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 71,
         "faultClass": [
-            "defF"
+            "call",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Closure",
         "bugId": 72,
         "faultClass": [
-            "uMethod",
-            "predF",
-            "defF"
+            "call",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 73,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 74,
         "faultClass": [
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 75,
         "faultClass": [
-            "guardF",
-            "defF",
-            "useF"
+            "guard",
+            "def",
+            "use"
         ]
     },
     {
         "project": "Closure",
         "bugId": 76,
         "faultClass": [
-            "uJump",
-            "guardF",
-            "guardN",
-            "defF"
+            "order",
+            "jump",
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 77,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "block"
         ]
     },
     {
         "project": "Closure",
         "bugId": 78,
         "faultClass": [
-            "uMethod"
+            "call"
         ]
     },
     {
         "project": "Closure",
         "bugId": 79,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 80,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 81,
         "faultClass": [
-            "guardF"
+            "block"
         ]
     },
     {
         "project": "Closure",
         "bugId": 82,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 83,
         "faultClass": [
-            "guardN"
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 84,
         "faultClass": [
-            "guardF"
+            "block"
         ]
     },
     {
         "project": "Closure",
         "bugId": 85,
         "faultClass": [
-            "uJump",
-            "uMethod",
-            "guardF",
-            "defF"
+            "jump",
+            "call",
+            "block",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 86,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 87,
         "faultClass": [
-            "guardF",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 88,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "call",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 89,
         "faultClass": [
-            "guardF",
-            "predF"
+            "block",
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 90,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "predF",
-            "defF"
+            "call",
+            "block",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 91,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 92,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 93,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 94,
         "faultClass": [
-            "uJump",
-            "guardF"
+            "jump",
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 95,
         "faultClass": [
-            "guardF"
+            "block",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 96,
         "faultClass": [
-            "guardN",
-            "predF"
+            "guard",
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 97,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 98,
         "faultClass": [
-            "guardF",
-            "defF"
+            "block",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 99,
         "faultClass": [
-            "guardN",
-            "predF"
+            "guard",
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 100,
         "faultClass": [
-            "guardF",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 101,
         "faultClass": [
-            "defF"
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 102,
         "faultClass": [
-            "uOrder"
+            "order"
         ]
     },
     {
         "project": "Closure",
         "bugId": 103,
         "faultClass": [
-            "guardF"
+            "block",
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 104,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 105,
         "faultClass": [
-            "predF",
-            "defF"
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 106,
         "faultClass": [
-            "uMethod",
-            "guardF",
-            "defF"
+            "call",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 107,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 108,
         "faultClass": [
-            "uMethod",
-            "predF",
-            "defF"
+            "call",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 109,
         "faultClass": [
-            "uMethod",
-            "guardN",
-            "defF"
+            "call",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 110,
         "faultClass": [
-            "guardF",
-            "guardN",
-            "predF",
-            "defF"
+            "jump",
+            "call",
+            "block",
+            "guard",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 111,
         "faultClass": [
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 112,
         "faultClass": [
-            "uMethod",
-            "defF"
+            "call",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 113,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 114,
         "faultClass": [
-            "predF"
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 115,
         "faultClass": [
-            "uJump",
-            "uMethod",
-            "defF"
+            "jump",
+            "call",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 116,
         "faultClass": [
-            "guardF"
+            "block",
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 117,
         "faultClass": [
-            "uOrder"
+            "order"
         ]
     },
     {
         "project": "Closure",
         "bugId": 118,
         "faultClass": [
-            "guardF"
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 119,
         "faultClass": [
-            "guardF"
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 120,
         "faultClass": [
-            "guardF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 121,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 122,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 123,
         "faultClass": [
-            "defF",
-            "useF"
+            "def",
+            "use"
         ]
     },
     {
         "project": "Closure",
         "bugId": 124,
         "faultClass": [
-            "guardN"
+            "guard"
         ]
     },
     {
         "project": "Closure",
         "bugId": 125,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 126,
         "faultClass": [
-            "uMethod"
+            "call"
         ]
     },
     {
         "project": "Closure",
         "bugId": 127,
         "faultClass": [
-            "guardF",
-            "predF"
+            "block",
+            "pred",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 128,
         "faultClass": [
-            "guardF",
-            "defF"
+            "guard",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 129,
         "faultClass": [
-            "guardF",
-            "defF"
+            "block",
+            "def"
         ]
     },
     {
         "project": "Closure",
         "bugId": 130,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 131,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 132,
         "faultClass": [
-            "predF"
+            "pred"
         ]
     },
     {
         "project": "Closure",
         "bugId": 133,
         "faultClass": [
-            "defF"
+            "def"
         ]
     }
 ]
