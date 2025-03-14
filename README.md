@@ -15,6 +15,7 @@
 
 ## Classification usage
 `<project>` is one of [`Chart`, `Closure`, `Jsoup`, `Lang`, `Math`, `Time`] 
+
 `<fault class>` is one of [`order`, `jump`, `call`, `pred`, `guard`, `block`, `def`, `use`]
 
 ### Project classification
