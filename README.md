@@ -1,11 +1,12 @@
-# Flow graph-based fault classification of Defects4J
+# Defects4J Control- and Data-Flow Graph-Based Fault Classification
+The classification of 488 faults from seven projects in the Defects4J dataset, using a novel control- and data-flow graph-based classification scheme.
 
 ## Fault classes
 ### Control-flow
 - `order`   = unconditional ordering fault
 - `jump`    = unconditional jump fault
 - `call`    = unconditional method call fault
-- `pred`    = predicate vertex fault
+- `pred`    = predicate node fault
 - `guard`   = predicate existence fault
 - `block`   = predicate block fault
 
